@@ -8,10 +8,10 @@
 
 ## Current Projects
 
-- 🧠 **Second Brain** - RAG-powered knowledge base — ingest YouTube, PDFs, articles. FastAPI + React + ChromaDB
+- 🧠 **Second Brain** - RAG-powered knowledge base - ingest YouTube, PDFs, articles. FastAPI + React + ChromaDB
 - 🇨🇳 **Nihao ML** - Learn Chinese from YouTube videos with synced transcripts and interactive study pages
-- 🎛️ **DJ Booking CRM** - Booking management system for DJs — gigs, clients, invoices, calendar
-- 🌐 **Scaleborg** - Consultancy website for cloud & data engineering services — Next.js
+- 🎛️ **DJ Booking CRM** - Booking management system for DJs - gigs, clients, invoices, calendar
+- 🌐 **Scaleborg** - Consultancy website for cloud & data engineering services - Next.js
 
 ## Connect
 
