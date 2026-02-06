@@ -1,56 +1,18 @@
-# Hey, I'm Scaleborg 👋
+# Hi, I'm Scaleborg 👋
 
-**Builder** · AI tools, full-stack apps, data systems
+📍 Europe | 🎧 DJ + Producer | 🤖 AI Builder | ☁️ Cloud & Data
 
-I build things that solve my own problems — then keep building. Currently deep in AI-powered apps, knowledge systems, and creative tools.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-```
-📍 Based in Europe  ·  🎧 DJ + Producer  ·  🤖 AI Tinkerer  ·  ☁️ Cloud & Data
-```
+> Building AI-powered tools and knowledge systems at full speed. After years in cloud & data engineering, the AI-native stack feels like a superpower.
 
----
+## Current Projects
 
-### 🔨 What I'm Building
+- 🧠 **Second Brain** - RAG-powered knowledge base — ingest YouTube, PDFs, articles, query with AI. FastAPI + React + ChromaDB
+- 🇨🇳 **Nihao ML** - Learn Chinese from YouTube videos with synced transcripts and interactive study pages
+- 🎛️ **DJ Booking CRM** - Booking management system for DJs — gigs, clients, invoices, calendar
+- 🌐 **Scaleborg** - Consultancy website for cloud & data engineering services — Next.js
 
-| | Project | What it does |
-|---|---------|-------------|
-| 🧠 | **Second Brain** | RAG-powered knowledge base — ingest YouTube, PDFs, docs, query with AI. FastAPI + React + ChromaDB |
-| 🇨🇳 | **Nihao ML** | Learn Chinese from YouTube videos with synced transcripts and interactive study |
-| 🎛️ | **DJ Booking CRM** | Booking management system for DJs — gigs, clients, invoices |
-| 🌐 | **Scaleborg** | Consultancy site for cloud & data engineering — Next.js |
+## Connect
 
----
-
-### 🧰 Tech Stack
-
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logoColor=white" />
-  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Fly.io" src="https://img.shields.io/badge/Fly.io-7B36ED?style=flat-square&logo=fly.io&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=scaleborg&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scaleborg&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" height="165" />
-</p>
-
----
-
-### 🔗 Connect
-
-<p>
-  <a href="https://linkedin.com/in/scaleborg"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/scaleborg"><img alt="X" src="https://img.shields.io/badge/@scaleborg-000000?style=flat-square&logo=x&logoColor=white" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/scaleborg) [![X](https://img.shields.io/badge/@scaleborg-000000?style=flat&logo=x&logoColor=white)](https://x.com/scaleborg)
