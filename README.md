@@ -6,7 +6,7 @@
 
 > Building AI-powered tools and knowledge systems at full speed. After years in cloud & data engineering, the AI-native stack feels like a superpower.
 
-## Current Projects
+## Side Projects
 
 - 🧠 **Second Brain** - RAG-powered knowledge base - ingest YouTube, PDFs, articles. FastAPI + React + ChromaDB
 - 🇨🇳 **Nihao ML** - Learn Chinese from YouTube videos with synced transcripts and interactive study pages
