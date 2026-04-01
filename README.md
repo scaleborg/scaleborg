@@ -1,56 +1,26 @@
-# Hey, I'm Scaleborg 👋
+Paris-based senior data engineer and ML engineer, freelancing through Scaleborg.
 
-**Builder** · AI tools, full-stack apps, data systems
+Specialized in building production data platforms, ML pipelines, and agentic systems for European tech companies.
 
-I build things that solve my own problems — then keep building. Currently deep in AI-powered apps, knowledge systems, and creative tools.
+## Data Engineering & Modern Data Stack
 
-```
-📍 Based in Europe  ·  🎧 DJ + Producer  ·  🤖 AI Tinkerer  ·  ☁️ Cloud & Data
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![Flink](https://img.shields.io/badge/Flink-E6526F?style=flat&logo=apacheflink&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white) ![Iceberg](https://img.shields.io/badge/Iceberg-3A6FA3?style=flat&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
----
+## ML & MLOps
 
-### 🔨 What I'm Building
+From feature engineering to model serving and monitoring.
 
-| | Project | What it does |
-|---|---------|-------------|
-| 🧠 | **Second Brain** | RAG-powered knowledge base — ingest YouTube, PDFs, docs, query with AI. FastAPI + React + ChromaDB |
-| 🇨🇳 | **Nihao ML** | Learn Chinese from YouTube videos with synced transcripts and interactive study |
-| 🎛️ | **DJ Booking CRM** | Booking management system for DJs — gigs, clients, invoices |
-| 🌐 | **Scaleborg** | Consultancy site for cloud & data engineering — Next.js |
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
----
+## Side Projects
 
-### 🧰 Tech Stack
-
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logoColor=white" />
-  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Fly.io" src="https://img.shields.io/badge/Fly.io-7B36ED?style=flat-square&logo=fly.io&logoColor=white" />
-</p>
+| Project | Description | Stack |
+|---|---|---|
+| **Second Brain** | RAG-powered personal knowledge base. Ingest YouTube, PDFs, and articles. | FastAPI, React, ChromaDB |
+| **Nihao ML** | Chinese language learning from YouTube videos with synced transcripts. | FastAPI, Next.js |
+| **DJ Booking CRM** | Gig and client management for DJs. Bookings, invoices, calendar. | Next.js, Supabase |
+| **Target** | Mission prep engine for senior freelance engineers. Paste a JD, get a structured brief. | Next.js, Claude API |
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=scaleborg&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scaleborg&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" height="165" />
-</p>
-
----
-
-### 🔗 Connect
-
-<p>
-  <a href="https://linkedin.com/in/scaleborg"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/scaleborg"><img alt="X" src="https://img.shields.io/badge/@scaleborg-000000?style=flat-square&logo=x&logoColor=white" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/scaleborg) [![X](https://img.shields.io/badge/@scaleborg-000000?style=flat&logo=x&logoColor=white)](https://x.com/scaleborg)
