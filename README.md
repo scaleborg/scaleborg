@@ -1,6 +1,6 @@
-Paris-based senior data engineer and ML engineer, freelancing through Scaleborg.
+Paris-based senior data engineer and ML platform engineer, freelancing through Scaleborg.
 
-Specialized in building production data platforms, ML pipelines, and agentic systems for European tech companies.
+Specialized in building production data platforms, ML pipelines, and MLOps infrastructure for tech and data-driven companies.
 
 ## Data Engineering & Modern Data Stack
 
@@ -16,10 +16,12 @@ From feature engineering to model serving and monitoring.
 
 | Project | Description | Stack |
 |---|---|---|
-| **Second Brain** | RAG-powered personal knowledge base. Ingest YouTube, PDFs, and articles. | FastAPI, React, ChromaDB |
-| **Nihao ML** | Chinese language learning from YouTube videos with synced transcripts. | FastAPI, Next.js |
-| **DJ Booking CRM** | Gig and client management for DJs. Bookings, invoices, calendar. | Next.js, Supabase |
-| **Target** | Mission prep engine for senior freelance engineers. Paste a JD, get a structured brief. | Next.js, Claude API |
+| **ecom-datagen** | Distribution-matched synthetic e-commerce data generator seeded from the Olist public dataset. Scales to 50M+ events with referential integrity and realistic temporal patterns. | Python, SDV, Faker, Parquet, Kafka |
+| **commerce-data-platform** | End-to-end ELT platform modelling merchant analytics — GMV, conversion, churn. Dimensional model, incremental loads, SLA monitoring, data lineage. | Airflow, dbt, BigQuery, GCS, Iceberg, Terraform, Great Expectations |
+| **streaming-pipeline-kafka-flink** | Real-time order and session event pipeline with exactly-once semantics, dead letter queue, and schema registry. Sinks to Iceberg on GCS. | Kafka, Flink, Avro, Iceberg, Python, Docker |
+| **dbt-data-quality-framework** | Reusable dbt quality layer — generic tests for PII, referential integrity, freshness SLOs, and surrogate key macros. CI via GitHub Actions. | dbt, BigQuery, GitHub Actions |
+| **mlops-feature-store-pipeline** | Feature engineering pipeline from dbt gold layer to model training, tracking, and serving. Includes feature drift monitoring logged back to the warehouse. | dbt, BigQuery, MLflow, PyTorch, FastAPI, Evidently |
+| **data-platform-infra** | IaC for the full stack — BigQuery datasets, GCS buckets, IAM, Airflow on GKE. CI/CD for dbt and pipeline tests on every PR. | Terraform, GCP, GitHub Actions, Docker |
 
 ---
 
