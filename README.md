@@ -3,12 +3,6 @@ Hi, I'm Adrien. [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=
 Paris-based data / ML systems engineer, freelancing through Scaleborg.  
 I build production-grade systems across batch and streaming: from data ingestion to analytical serving and ML inference.
 
-## ML Platform (P1 → P7)
-
-End-to-end production ML platform for real-time decisioning systems.
-
-→ Start here: https://github.com/scaleborg/ml-platform-portfolio
-
 ## Focus
 
 - Batch + streaming data systems
@@ -42,8 +36,11 @@ From feature engineering to model serving and monitoring.
 
 ## Selected Project
 
-ml-platform-portfolio  
-Production-grade ML platform for real-time decisioning systems, structured as a layered P1 → P7 architecture:
-ingestion → feature pipeline → feature store → training → serving → monitoring → decisioning.
+### **ml-platform-portfolio**
 
-→ Start here: https://github.com/scaleborg/ml-platform-portfolio
+Production-grade ML platform for real-time decisioning.
+
+Layered architecture (P1 → P7):
+ingestion → feature pipeline → feature store → training → serving → monitoring → decisioning
+
+→ https://github.com/scaleborg/ml-platform-portfolio
