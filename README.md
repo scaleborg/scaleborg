@@ -42,11 +42,8 @@ From feature engineering to model serving and monitoring.
 
 ## Selected Project
 
-### urban-mobility-control-tower
+ml-platform-portfolio  
+Production-grade ML platform for real-time decisioning systems, structured as a layered P1 → P7 architecture:
+ingestion → feature pipeline → feature store → training → serving → monitoring → decisioning.
 
-End-to-end mobility data system combining live ingestion, change capture, streaming aggregation, analytics, and API serving.  
-Postgres → Debezium → Kafka → Flink → DuckDB → dbt → FastAPI.
-
-## Next
-
-Feature pipeline and prediction service for short-term mobility demand and station availability.
+→ Start here: https://github.com/scaleborg/ml-platform-portfolio
