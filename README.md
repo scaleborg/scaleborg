@@ -3,6 +3,12 @@ Hi, I'm Adrien. [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=
 Paris-based data / ML systems engineer, freelancing through Scaleborg.  
 I build production-grade systems across batch and streaming: from data ingestion to analytical serving and ML inference.
 
+## ML Platform (P1 → P7)
+
+End-to-end production ML platform for real-time decisioning systems.
+
+→ Start here: https://github.com/scaleborg/ml-platform-portfolio
+
 ## Focus
 
 - Batch + streaming data systems
